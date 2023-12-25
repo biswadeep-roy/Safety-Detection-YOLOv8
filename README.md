@@ -54,6 +54,12 @@ Ensure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
+3. Download the pre-trained model file (`ppe.pt`) from the following link:
+
+    [Download ppe.pt](https://drive.google.com/drive/folders/1Fyr8PdSLKRaVdkP5Xr77hAXIXcObx_Hp?usp=sharing)
+
+4. Place the downloaded `ppe.pt` file in the project's root directory.
+   
 ## Usage
 
 1. Confirm that your webcam or video source is accessible.
