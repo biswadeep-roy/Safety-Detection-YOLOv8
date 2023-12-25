@@ -1,7 +1,7 @@
 # Safety Detection with YOLOv8
 
-![Safety Detection YOLOv8](![image](https://github.com/biswadeep-roy/Safety-Detection-YOLOv8/assets/74821633/e08d378f-9260-450b-8942-845651853d7d)
-)
+![Safety Detection YOLOv8] ![image](https://github.com/biswadeep-roy/Safety-Detection-YOLOv8/assets/74821633/e08d378f-9260-450b-8942-845651853d7d)
+
 
 ## Overview
 
