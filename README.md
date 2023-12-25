@@ -75,8 +75,9 @@ To tailor the project to specific use cases or add new objects for detection, fo
 
 ## Results
 
-![Demo Image](![image](https://github.com/biswadeep-roy/Safety-Detection-YOLOv8/assets/74821633/2a0f0cdb-0dc7-46c1-b529-19f1d7f79b8c)
-)
+![Demo Image](![image] ![image](https://github.com/biswadeep-roy/Safety-Detection-YOLOv8/assets/74821633/88d9b1a6-8dd8-4662-a2d9-2bfa0275c4fc)
+
+
 
 _(Include images or GIFs showcasing the model's performance and compliance detection.)_
 
