@@ -23,7 +23,7 @@ Welcome to the Safety Detection YOLOv8 project! This initiative leverages YOLOv8
 
 ## Introduction
 
-Safety Detection YOLOv8 is an advanced computer vision project designed for real-time object detection. By employing YOLOv8, the model identifies various safety-related objects such as hardhats, masks, safety vests, and more.
+Safety Detection YOLOv8 is an advanced computer vision project designed for real-time object detection. By employing YOLOv8, the model identifies various safety-related objects such as hardhats, masks, safety vests, and more..
 
 ## Features
 
