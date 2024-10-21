@@ -56,7 +56,7 @@ Ensure you have the following installed on your system:
 
 3. Download the pre-trained model file (`ppe.pt`) from the following link:
 
-    [Download ppe.pt](https://drive.google.com/drive/folders/1Fyr8PdSLKRaVdkP5Xr77hAXIXcObx_Hp?usp=sharing)
+    [Download ppe.pt]([https://drive.google.com/drive/folders/1Fyr8PdSLKRaVdkP5Xr77hAXIXcObx_Hp?usp=sharing](https://drive.google.com/drive/folders/11tfTBkp4JdlJ8QXoAMZxgVMf8xpLBXi_?usp=sharing))
 
 4. Place the downloaded `ppe.pt` file in the project's root directory.
    
